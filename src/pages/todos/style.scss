@@ -1,0 +1,14 @@
+.p-todos {
+  .todoslist {
+    display: flex;
+    align-items: center;
+  }
+
+  input {
+    display: inline-block;
+  }
+  span {
+    margin: 10px;
+    display: block;
+  }
+}
